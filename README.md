@@ -10,8 +10,6 @@ A collection of delicious recipes.
 - [Features](#features)
 - [Usage](#usage)
 - [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
@@ -32,3 +30,8 @@ To use the Recipes project, simply open the `index.html` file in your web browse
 
    ```bash
    git clone https://github.com/your-username/recipes.git
+   
+2.Open the project folder:
+   cd recipes
+
+3.Open the index.html file in your preferred web browser.
