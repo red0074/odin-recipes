@@ -31,7 +31,9 @@ To use the Recipes project, simply open the `index.html` file in your web browse
    ```bash
    git clone https://github.com/your-username/recipes.git
    
-2.Open the project folder:
+2. Open the project folder:
+  
+   ```bash
    cd recipes
-
-3.Open the index.html file in your preferred web browser.
+   
+3. Open the index.html file in your preferred web browser.
